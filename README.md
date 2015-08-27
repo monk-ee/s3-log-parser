@@ -30,5 +30,9 @@ Key:
     \"%{Referer}i\" - referer - The contents of Foobar: header line(s) in the request sent to the server. Changes made by other modules (e.g. mod_headers) affect this. If you're interested in what the request header was prior to when most modules would have modified it, use mod_setenvif to copy the header into an internal environment variable and log that value with the %\{VARNAME}e described above. The value of the HTTP Referrer header, if present. HTTP user-agents (e.g. browsers) typically set this header to the URL of the linking or embedding page when making a request.
     \"%{User-Agent}i\" - user agent - The value of the HTTP User-Agent header.
     %v - version_id - The version ID in the request, or "-" if the operation does not take a versionId parameter.
+    
+    
+    
+Based on apache-log-parser by © 2013 Rory McCann, released under the terms of the GNU GPL v3
 
     
