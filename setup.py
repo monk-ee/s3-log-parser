@@ -29,4 +29,7 @@ setup(name="s3-log-parser",
           'Programming Language :: Python :: 3.3',
           'Programming Language :: Python :: 3.4',
       ],
+
+      keywords='aws s3 logfiles',
+
       )
