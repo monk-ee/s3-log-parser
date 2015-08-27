@@ -36,3 +36,6 @@ Key:
 Based on apache-log-parser by © 2013 Rory McCann, released under the terms of the GNU GPL v3
 
     
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/monk-ee/s3-log-parser/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
