@@ -1,4 +1,5 @@
 S3 Log Parser
 =============
 
-Parses log lines from an s3 log file
+Parses log lines from an s3 log file:wq!
+:wq!

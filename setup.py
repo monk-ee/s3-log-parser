@@ -6,7 +6,7 @@ exec(open("./s3_log_parser/_version.py").read())
 
 setup(name="s3-log-parser",
       version=__version__,
-      author="Lyndon Swan",
+      author="monkee",
       author_email="magic.monkee.magic@gmail.com",
       packages=['s3_log_parser'],
       install_requires = [
@@ -30,6 +30,6 @@ setup(name="s3-log-parser",
           'Programming Language :: Python :: 3.4',
       ],
 
-      keywords='aws s3 logfiles',
+      keywords='aws s3 logfiles'
 
       )
