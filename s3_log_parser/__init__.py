@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 __author__ = 'Monkee Magic <magic.monkee.magic@gmail.com>'
-__version__ = '1.0.0dev'
+__version__ = '1.0.0'
 
 """Parses log lines from an s3 log file.
 
